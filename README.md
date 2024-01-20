@@ -7,13 +7,13 @@
  Without this turned on, diskspd.exe takes around 2-3x longer as it needs to take more time to allocate memory
 
 ### Credits
- Original code snippet from https://github.com/fashionproof/EnableAllTokenPrivs -> edited to just be SeManageVolumePrivilege
- binarie0 -> UI Implementation, Graphics, and Functionality
- EarthToFatt -> Graphics
+ Original code snippet from https://github.com/fashionproof/EnableAllTokenPrivs -> edited to just be SeManageVolumePrivilege 
+ binarie0 -> UI Implementation, Graphics, and Functionality 
+ EarthToFatt -> Graphics 
 
-### Credits for diskspd-auto (not on Github yet as of 20 Jan 2024)
- binarie0 -> UI Implementation, Graphics, and Functionality
- EarthToFatt -> Code Restructuring, Graphics, Output to Word
-
+### Credits for diskspd-auto (not on Github yet as of 20 Jan 2024) 
+ binarie0 -> UI Implementation, Graphics, and Functionality 
+ EarthToFatt -> Code Restructuring, Graphics, Output to Word 
+ 
 #### Changelog
     20 Jan 2024 - Initial Commit to Github (applying licenses and attaching actual code)
