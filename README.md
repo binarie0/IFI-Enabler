@@ -11,7 +11,7 @@
  binarie0 -> UI Implementation, Graphics, and Functionality    
  EarthToFatt -> Graphics    
 
-### Credits for diskspd-auto (not on Github yet as of 20 Jan 2024)    
+### Credits for SE Volume Benchmark [better name pending] (not on Github yet as of 20 Jan 2024)    
  binarie0 -> UI Implementation, Graphics, and Functionality   
  EarthToFatt -> Code Restructuring, Graphics, Output to Word   
  
