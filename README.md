@@ -9,7 +9,7 @@
 ### Credits
  Original code snippet from https://github.com/fashionproof/EnableAllTokenPrivs -> edited to just be SeManageVolumePrivilege    
  binarie0 -> UI Implementation, Graphics, and Functionality    
- EarthToFatt -> Graphics    
+ EarthToFatt -> Graphics, Conceptualization    
 
 ### Credits for SE Volume Benchmark [better name pending] (not on Github yet as of 20 Jan 2024)    
  binarie0 -> UI Implementation, Graphics, and Functionality   
