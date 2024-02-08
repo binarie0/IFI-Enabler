@@ -1,3 +1,5 @@
+# THIS REPO IS DEPRECATED AS OF 1 FEB 2024 | DRIVETESTULTRA NOW COMES PRE-LOADED WITH A .TMP FILE BYPASSING PERMISSIONS
+
 # IFI Enabler
  This program turns on Instant File Initialization with a nice little UI (made to use in conjunction with [DriveTestUltra](https://github.com/binarie0/DriveTestUltra) so the program can run at full efficiency)    
 
